@@ -31,5 +31,5 @@ Configurar as VLANs de forma que cada setor (Secretaria, Professores, Laboratór
 4. Testar conectividade entre diferentes VLANs
 
 ## Capturas de Tela
-![Escola de TI](Escola-TI.png)
-)
+![Escola de TI](Escola%20TI.png)
+
