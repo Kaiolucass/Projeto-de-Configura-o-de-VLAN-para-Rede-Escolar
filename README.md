@@ -1,4 +1,4 @@
-# Projeto de Configuração de VLAN para Rede Escolar
+# Configuração de VLAN para Rede Escolar
 
 ## Objetivo
 Este projeto visa a configuração de VLANs em uma rede escolar utilizando o **Cisco Packet Tracer**. O objetivo é segmentar a rede em várias VLANs para garantir a segurança e o bom funcionamento da rede, isolando as diferentes áreas da escola.
