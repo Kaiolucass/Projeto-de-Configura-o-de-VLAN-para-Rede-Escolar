@@ -31,4 +31,5 @@ Configurar as VLANs de forma que cada setor (Secretaria, Professores, Laboratór
 4. Testar conectividade entre diferentes VLANs
 
 ## Capturas de Tela
-![VLAN Setup](imagem-exemplo.png)
+![VLAN Setup](![image](https://github.com/user-attachments/assets/b47ddce5-47dc-436a-8752-68b2fe4bb547)
+)
