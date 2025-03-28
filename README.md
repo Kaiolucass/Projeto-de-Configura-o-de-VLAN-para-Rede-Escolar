@@ -32,4 +32,5 @@ Configurar as VLANs de forma que cada setor (Secretaria, Professores, Laboratór
 
 ## Capturas de Tela
 ![Escola de TI](Escola%20TI.png)
+)
 
